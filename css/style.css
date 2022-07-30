@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.apagada {
+    width: 170px;
+    height: 220px;
+    background: url(/assets/apagada.jpg);
+    background-repeat: no-repeat;
+}
+
+.ligada {
+    width: 170px;
+    height: 220px;
+    background: url(/assets/acesa.jpg);
+    background-repeat: no-repeat;
+}
